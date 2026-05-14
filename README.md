@@ -360,3 +360,18 @@ AI-assisted coding
 Towards:
 
 AI-native systems thinking
+
+## Repository Status
+
+This repository is an evolving framework for AI-native system building.
+
+Many sections are still under active development, including:
+- templates
+- visuals
+- workshop materials
+- orchestration examples
+- deployment examples
+
+The current version should be understood as a living operational framework rather than a finished product.
+
+Contributions and collaboration are welcome.
